@@ -11,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 导入数据
-points = np.genfromtxt('/Users/chenzixin/Desktop/data.csv', delimiter=',')
+points = np.genfromtxt('data.csv', delimiter=',')
 
 x = points[:, 0]
 y = points[:, 1]
