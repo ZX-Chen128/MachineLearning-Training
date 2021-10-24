@@ -4,6 +4,7 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
+# pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple/
 
 # 引入依赖
 import numpy as np
