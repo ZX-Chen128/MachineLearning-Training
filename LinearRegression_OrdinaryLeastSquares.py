@@ -16,9 +16,9 @@ points = np.genfromtxt('data.csv', delimiter=',')
 x = points[:, 0]
 y = points[:, 1]
 
-# plt画出散点图
-plt.scatter(x, y)
-plt.show()
+# # plt画出散点图
+# plt.scatter(x, y)
+# plt.show()
 
 
 # 定义损失函数
